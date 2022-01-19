@@ -1,0 +1,6 @@
+/Users/adrienstankovic/Documents/EFREI/M2/Semestre 9/Trading - ST2TRD/TP/TP3/STANKOVIC_Adrien_TP3_ST2TRD/STANKOVIC_Adrien_TP3_ST2TRD/bin/Debug/STANKOVIC_Adrien_TP3_ST2TRD.exe
+/Users/adrienstankovic/Documents/EFREI/M2/Semestre 9/Trading - ST2TRD/TP/TP3/STANKOVIC_Adrien_TP3_ST2TRD/STANKOVIC_Adrien_TP3_ST2TRD/bin/Debug/STANKOVIC_Adrien_TP3_ST2TRD.pdb
+/Users/adrienstankovic/Documents/EFREI/M2/Semestre 9/Trading - ST2TRD/TP/TP3/STANKOVIC_Adrien_TP3_ST2TRD/STANKOVIC_Adrien_TP3_ST2TRD/obj/Debug/STANKOVIC_Adrien_TP3_ST2TRD.csproj.AssemblyReference.cache
+/Users/adrienstankovic/Documents/EFREI/M2/Semestre 9/Trading - ST2TRD/TP/TP3/STANKOVIC_Adrien_TP3_ST2TRD/STANKOVIC_Adrien_TP3_ST2TRD/obj/Debug/STANKOVIC_Adrien_TP3_ST2TRD.csproj.CoreCompileInputs.cache
+/Users/adrienstankovic/Documents/EFREI/M2/Semestre 9/Trading - ST2TRD/TP/TP3/STANKOVIC_Adrien_TP3_ST2TRD/STANKOVIC_Adrien_TP3_ST2TRD/obj/Debug/STANKOVIC_Adrien_TP3_ST2TRD.exe
+/Users/adrienstankovic/Documents/EFREI/M2/Semestre 9/Trading - ST2TRD/TP/TP3/STANKOVIC_Adrien_TP3_ST2TRD/STANKOVIC_Adrien_TP3_ST2TRD/obj/Debug/STANKOVIC_Adrien_TP3_ST2TRD.pdb
